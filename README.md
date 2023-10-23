@@ -1,3 +1,5 @@
+![myBlog](https://github.com/stiantha/myBlog/assets/132207909/315af1d3-789b-479c-8233-16cc802b6d83)
+
 ## Tech Stack
 ```
 [Astro]
