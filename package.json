@@ -3,7 +3,7 @@
   "description": "",
   "type": "module",
   "version": "2.5.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
